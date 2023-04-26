@@ -59,11 +59,5 @@
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/Sebs8774/count.svg"/>
 </p> 
-</p><br>
-
-
-
-<p align="center">
-    <img src="Thank_yo.png" min-width="500px" max-width="500px" height="136" width="400" align="right" alt="Computer Daniel Farias">
-</p><br>
+</p>
 
