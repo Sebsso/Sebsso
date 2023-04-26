@@ -1,7 +1,7 @@
 <p align="left">
 <h1 align ="center">👋 Hello! I'm Sebastião Simão</h1>
 
-<img src="https://miro.medium.com/max/1400/1*GKSUn8nIBnFy07luMC5wlw.gif" min-width="500px" max-width="500px" height="400" width="450" align="right" alt="Computer Daniel Farias">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g" min-width="500px" max-width="500px" height="400" width="450" align="right" alt="s">
 <br />
 <h3> Front-end Developer & Systems Analysis and Development</h3>
 
@@ -57,7 +57,7 @@
    
 <h3><p align="center">Total profile visits:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/Sebs8774/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/Sebsso/count.svg"/>
 </p> 
 </p>
 
