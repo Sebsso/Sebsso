@@ -9,10 +9,9 @@
 - ⏳  I'm 20 years old.
 - 💙  My preferred language is Javascript.
 - 🎮  My hobby is watching movies, series and anime!
-- 📚 
-- 🌱  I’m currently learning *Angular and Typescript*
+- 📚 I’m currently learning *Angular and Typescript*
 
-### 📊  2022 Goals:
+### 📊  2023 Goals:
    - 📂  Expand my portfolio.
    - 🤝  Get a Job
    - 📈  Improve My Skills
@@ -41,18 +40,18 @@
  <h3 align="center">⭐  Statistics and Languages</h3>
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Sebs8774&count_private=true&show_icons=true&theme=dracula" alt="Sebastião Simão" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebs8774&&langs_count=8&layout=compact&theme=dracula" alt="Sebastião Simao" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sebsso&count_private=true&show_icons=true&theme=dracula" alt="Sebastião Simão" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebsso&&langs_count=8&layout=compact&theme=dracula" alt="Sebastião Simao" height="165" />
 </p>
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Sebs8774&theme=dracula&row=1" alt="Sebastião Simão" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Sebsso&theme=dracula&row=1" alt="Sebastião Simão" />
 </p>
 
 <h3 align="center">✌️ Contact Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebasti%C3%A3o-sim%C3%A3o-643925235/"><img src="https://img.shields.io/badge/-sebastião-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:sebastiaosimaoliveira@gmail.com"><img src="https://img.shields.io/badge/-sebastiaosimaoliveira@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:simaosebastian15@gmail.com"><img src="https://img.shields.io/badge/-sebastiaosimaoliveira@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sebs722/"><img src="https://img.shields.io/badge/-@sebs722-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
    
 <h3><p align="center">Total profile visits:</p>
