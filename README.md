@@ -1,62 +1,162 @@
+# 👨‍💻 Sebastião Simão
+
+**`Desenvolvedor Front-end`**
+
+Me chamo Sebastião Simão, tenho 22 anos e sou natural do Ceará. Concluí o ensino médio no Walter Ramos de Araújo, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no  Instagram, com o perfil chamado "[DevSebs](https://www.instagram.com/sebastian.d.e.v/)".
+
 <p align="left">
-<h1 align ="center">👋 Hello! I'm Sebastião Simão</h1>
-
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g" min-width="500px" max-width="500px" height="400" width="450" align="right" alt="s">
-<br />
-<h3> Front-end Developer & Systems Analysis and Development</h3>
-
-### 🧑🏻 About me
-- ⏳  I'm 20 years old.
-- 💙  My preferred language is Javascript.
-- 🎮  My hobby is watching movies, series and anime!
-- 📚 I’m currently learning *Angular and Typescript*
-
-### 📊  2023 Goals:
-   - 📂  Expand my portfolio.
-   - 🤝  Dedicate more to the profiling area and enter the market.
-   - 📈  Improve My Skills
-<p/>
-
-<h1 align ="center">📚  Stack I Work With</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-  <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-  <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
-  <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
-  <img src ="https://img.shields.io/badge/-NextJS%20-black?style=for-the-badge&logo=vercel&logoColor=white" height ="25"/>
-  <img src ="https://img.shields.io/badge/-figma%20-red?style=for-the-badge&logo=figma&logoColor=white" height ="25"/>
+        <a href="https://github.com/Sebsso?tab=repositories">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Sebsso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Sebsso?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
- <h3 align="center">⭐  Statistics and Languages</h3>
+---
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Sebsso&count_private=true&show_icons=true&theme=dracula" alt="Sebastião Simão" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebsso&&langs_count=8&layout=compact&theme=dracula" alt="Sebastião Simao" height="165" />
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Sebsso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebsso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Sebsso&theme=dracula&row=1" alt="Sebastião Simão" />
-</p>
-
-<h3 align="center">✌️ Contact Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebasti%C3%A3o-sim%C3%A3o-855378292/"><img src="https://img.shields.io/badge/-sebastião-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:simaosebastian15@gmail.com"><img src="https://img.shields.io/badge/-simaosebastian15@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sebastian.d.e.v/"><img src="https://img.shields.io/badge/-@sebastian.d.e.v-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-   
-<h3><p align="center">Total profile visits:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/Sebsso/count.svg"/>
-</p> 
-</p>
-
