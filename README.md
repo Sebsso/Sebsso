@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Sebastião Simão, tenho 22 anos e sou natural do Ceará. Concluí o ensino médio no Walter Ramos de Araújo, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no  Instagram, com o perfil chamado "[DevSebs](https://www.instagram.com/sebastian.d.e.v/)".
+Me chamo Sebastião Simão, tenho 22 anos e sou natural do Ceará. Concluí o ensino médio no Walter Ramos de Araújo, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no  Instagram, com o perfil chamado "[DevSebs](https://www.instagram.com/sebastian.d.e.v/)".
 
 <p align="left">
         <a href="https://github.com/Sebsso?tab=repositories">
