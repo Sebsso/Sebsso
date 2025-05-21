@@ -42,12 +42,9 @@ Me chamo Sebastião Simão, tenho 22 anos e sou natural do Ceará. Concluí o en
    
 <h3><p align="center">Total profile visits:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/Sebs8774/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/Sebsso/count.svg"/>
 </p> 
 </p><br>
 
 
 
-<p align="center">
-    <img src="Thank_yo.png" min-width="500px" max-width="500px" height="136" width="400" align="right" alt="Computer Daniel Farias">
-</p><br>
