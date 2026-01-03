@@ -2,49 +2,61 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Sebastião Simão, tenho 22 anos e sou natural do Ceará. Concluí o ensino médio no Walter Ramos de Araújo, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no  Instagram, com o perfil chamado "[DevSebs](https://www.instagram.com/sebastian.d.e.v/)".
+![](https://komarev.com/ghpvc/?username=Sebsso&color=006bed)
 
-<p align="center">
-        <a href="https://github.com/Sebsso?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Sebsso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Sebsso?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Sebsso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+## Sobre mim
 
----
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas na Uniasselvi.
+- 💼 Estou em busca do meu Primeiro emprego na área.
+- 🌱 Aprendendo mais sobre React e TypeScript.
 
- <h3 align="center">⭐  Statistics and Languages</h3>
+## Minhas Skills
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Sebsso&count_private=true&show_icons=true&theme=dracula" alt="Sebastião Simão" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebsso&&langs_count=8&layout=compact&theme=dracula" alt="Sebastião Simao" height="165" />
-</p>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Sebsso&theme=dracula&row=1" alt="Sebastião Simão" />
-</p>
+**Aplicações e dados**
 
-<h3 align="center">✌️ Contact Me</h3>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<p align="center">
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+
+## Onde me encontrar
+
+
+<p>
   <a href="https://www.linkedin.com/in/SebastiaoDev/"><img src="https://img.shields.io/badge/-sebastião-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:simaosebastian15@gmail.com"><img src="https://img.shields.io/badge/-sebastiaosimaoliveira@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sebs722/"><img src="https://img.shields.io/badge/-@sebs722-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-   
-<h3><p align="center">Total profile visits:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/Sebsso/count.svg"/>
-</p> 
-</p><br>
-
+  
 
 
